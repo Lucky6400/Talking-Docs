@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file for your "Talking Docs" full-stack application:
-
 # Talking Docs
 
 **Talking Docs** is a full-stack web application that allows users to communicate through PDF documents. It combines the power of chat functionality with the PDF files seamlessly. This README provides an overview of the application's features, technologies used, and how to set it up.
