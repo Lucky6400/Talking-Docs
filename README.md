@@ -80,8 +80,8 @@ To run the "Talking Docs" application locally, follow these steps:
 
 1. **Sign Up / Log In**: Create an account or log in to your existing account.
 
-2. **PDF Upload**: Upload PDF files to your account, providing details about the document.
+2. **PDF Upload**: Upload PDF files to your account.
 
-3. **Chat with PDF**: Select a PDF document to chat with others. You can send and receive messages while viewing the PDF.
+3. **Chat with PDF**: Select a PDF document to chat with. You can send and receive messages.
 
 **Talking Docs** is developed and maintained by Lucky Jain. If you have any questions or need assistance, please contact luckyjain6400@gmail.com.
